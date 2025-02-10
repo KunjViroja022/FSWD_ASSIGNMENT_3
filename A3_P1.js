@@ -1,3 +1,6 @@
+//Problem 1: Directory Organizer
+//Objective: Create a command-line tool that organizes files in a directory into categorized subfolders.
+
 // Import required modules
 const fs = require('fs');
 const path = require('path');
