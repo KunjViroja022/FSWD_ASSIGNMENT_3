@@ -1,3 +1,7 @@
+//Problem 3: Environment Inspector
+//Objective: Build a utility to inspect and display system environment variables.
+
+
 // Import required modules
 const fs = require('fs');
 const path = require('path');
