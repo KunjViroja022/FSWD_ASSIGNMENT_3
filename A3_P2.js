@@ -1,3 +1,7 @@
+//Problem 2: File Backup System
+//Objective: Build a command-line tool to back up specified files into a backup folder.
+
+
 // Import required modules
 const fs = require('fs');
 const path = require('path');
